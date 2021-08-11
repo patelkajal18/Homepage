@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kajal Patel"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Kajal Patel"
 description              : &description "personal description"

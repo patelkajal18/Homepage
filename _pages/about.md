@@ -13,8 +13,10 @@ This is Kajal's home on the web!.
 Large
 ======
 Big text.
+
 Medium
 ------
 Medium text.
+
 **Small**
 Small text.

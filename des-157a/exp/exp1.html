@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Experiments</title>
+</head>
+<body>
+    <h1>experiment 1</h1>
+    <h2> open the console to see the program --> </h2>
+
+    <script>
+        /* This program uses user input and loops through 
+        the statement to capitalize every odd character */
+
+        var userInput = prompt("enter a statement:", "").toLowerCase();
+        var result = "";
+
+        for (var i = 0; i < userInput.length; i++) {
+            if (i % 2 == 0) {
+                result += userInput[i].toUpperCase();
+            } else {
+                result += userInput[i];
+            }
+        }
+
+        console.log(result);
+
+    </script>
+</body>
+</html>

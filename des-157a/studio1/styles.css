@@ -1,0 +1,200 @@
+#mag {
+    background-color: black;
+    border: 15px solid red;
+    margin: 20px;
+    width: 554px;
+    height: 652px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    background-image: url("");
+    background-size: cover;
+    position: relative;
+}
+
+#border {
+    width: 552px;
+    height: 650px;
+    border: 2px solid white;
+}
+
+h2 {
+    color: white;
+    font-size: 130px;
+    margin: 0;
+    text-align: center;
+    font-family: 'Bodoni Moda';
+    font-weight: 400;
+}
+
+h1 {
+    display: none;
+}
+
+img {
+    display: none;
+}
+
+.container {
+    width: 1366px;
+    height: 730px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./images/background.png");
+    background-size: cover;
+    font-family: 'Roboto Slab';
+    font-weight: 300;
+}
+
+h5 {
+    font-size: x-small;
+    color: black;
+    font-family: "Roboto Mono";
+    font-weight: 400;
+}
+
+#center1 {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center; 
+}
+
+#left1 {
+    width: 230px;
+    bottom: 5px;
+}
+
+#left2 {
+    width: 500px;
+    top: -30px;
+    left: 0;
+}
+
+.leftText {
+    position: absolute;
+    left: 15px;
+}
+
+#right1 {
+    position: absolute;
+    top: -30px;
+    right: 1px;
+}
+
+h3 {
+    margin-bottom: 0px;
+    color: white;
+    font-weight: normal;
+    font-size: 25px;
+}
+
+p {
+    color: white;
+    margin-top: 10px;
+    font-size: medium;
+    font-weight: 400;
+}
+
+input:focus {
+    outline: none;
+    background-color: #EEE;
+    color: black;
+}
+
+#inputBox {
+    background-color: rgb(55, 67, 90, 0.83);
+    width: 434px;
+    height: 560px;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+}
+
+form {
+    display: inline-grid;
+    margin: auto;
+    margin-top: 0;
+}
+
+input {
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color: #262E40;
+    border: none;
+    border-radius: 7px;
+    color: white;
+}
+
+select {
+    padding: 10px;
+    margin-bottom: 20px;
+    color: white;
+    background-color: #262E40;
+    border: none;
+    border-radius: 7px;
+    outline: none;
+}
+
+
+h4 {
+    color: white;
+    font-size: x-large;
+    font-weight: lighter;
+}
+
+label {
+    text-align: left;
+    color: white;
+    margin-bottom: 5px;
+    font-weight: normal;
+}
+
+button {
+    color: white;
+    background-color: #262E40;
+    border: none;
+    width: 110px;
+    height: 30px;
+    font-weight: lighter;
+    margin: auto;
+    margin-top: 10px;
+    border-radius: 15px;
+    outline: none;
+}
+
+button:hover {
+    color: black;
+    background-color: white;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+
+a:hover {
+    color: white;
+}
+
+a {
+    background-color: transparent;
+    color: rgb(85 104 140);
+    text-decoration: none;
+    font-size: small;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#char {box-shadow: 0px 3px 10px 2px rgba(236, 111, 46, 0.5);}
+#snack {box-shadow: 0px 5px 10px 2px rgba(216, 69, 50, 0.5);}  
+#background {box-shadow: 0px 5px 10px 2px rgba(235,51, 35, 0.5);}
+#num {box-shadow: 0px 5px 10px 2px rgba(188, 43, 34, 0.5);}
+#house {box-shadow: 0px 5px 10px 2px rgba(235, 57, 186, 0.5);}

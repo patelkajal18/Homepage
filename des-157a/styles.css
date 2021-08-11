@@ -1,0 +1,185 @@
+.wrapper {
+    width: 100%;
+    max-width: 1366px;
+    min-width: 900px !important;
+    margin: 0 auto !important;
+    padding-top: 2em;
+}
+
+header {
+    color: black;
+    padding: 10px;
+    padding-left: 30px;
+    width: 790px;
+    margin-top: 20px;
+    margin-left: 48px;
+    margin-bottom: 40px;
+    border: 1px solid burlywood;
+    background-color: #ffffff;
+}
+
+body {
+    background: linear-gradient(to right, #f5eee5, #efe3c8, #efe3c8, #efe3c8, #f5eee5);
+    /*background: linear-gradient(to right, #f5eee5 47%, #61B2BD 100%);*/
+    font-family: 'Playfair Display';
+}
+
+.flex-container {
+    height: 550px;
+    width: 1366px;
+    display: flex;
+    background-color: transparent;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-box {
+    width: 850px;
+    height: 500px;
+    background-color: white;
+    align-items: center;
+    display: flex;
+    margin-bottom: 0px;
+    border-radius: 30% 70% 30% 70% / 50% 70% 40% 70%;
+    box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
+ }
+
+section {
+    border: 10px;
+    height: 400px;
+    width: 200px;
+    border-style: groove;
+    border-color: burlywood;
+    background: transparent;
+    box-shadow: inset 0 0 2000px rgb(245 238 229 / 60%);
+    margin-left: 30px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+ol {
+    list-style-type: none;
+    padding-inline-start: 28px;
+}
+
+li {
+    padding-bottom: 3px;
+}
+
+a {
+    background-color: transparent;
+    color: grey;
+    text-decoration: none;
+    font-size: large;
+}
+
+a:hover {
+    color: black;
+}
+
+.stained-glass-banner {
+    width: 390px;
+    height: 790px;
+    overflow: hidden;
+    margin-bottom: 220px;
+    margin-left: 50px;
+    position: relative;
+    border-radius: 5px;
+    box-shadow: inset 0px 0px 8px 0 rgb(0 0 0 / 20%), inset 0px 2px 20px 0 rgb(0 0 0 / 19%);
+}
+
+#glass1 {
+    width: 350px;
+    height: 450px;
+    border-radius: 30% 70% 30% 70% / 50% 80% 30% 70%;
+    margin-top: 70px;
+    box-shadow: inset 0 0 2000px #b6dfff;
+}
+
+#glass2 {
+    width: 400px;
+    height: 600px;
+    margin-top: 400px;
+    margin-left: 170px;
+    border-radius: 60% 40% 70% 30% / 70% 60% 40% 30%;
+    box-shadow: inset 0 0 2000px rgb(217 46 180 / 45%);
+}
+
+#glass3 {
+    width: 300px;
+    height: 600px;
+    margin-left: 0px;
+    margin-top: 500px;
+    border-radius: 50% 40% 50% 80% / 50% 80% 40% 10%;
+    box-shadow: inset 0 0 2000px rgb(217 189 46 / 45%);
+}
+
+#glass4 {
+    width: 500px;
+    height: 700px;
+    margin-top: -50px;
+    margin-left: 60px;
+    border-radius: 60% 40% 70% 30% / 70% 60% 40% 30%;
+    box-shadow: inset 0 0 2000px #4680ff;
+}
+
+#glass5 {
+    width: 400px;
+    height: 600px;
+    margin-left: -30px;
+    margin-top: -100px;
+    border-radius: 30% 70% 30% 70% / 50% 80% 30% 70%;
+    box-shadow: inset 0 0 2000px rgb(23 194 114 / 45%);
+}
+
+#glass6 {
+    width: 500px;
+    height: 700px;
+    margin-top: 210px;
+    margin-left: -120px;
+    border-radius: 60% 40% 70% 30% / 70% 60% 40% 30%;
+    box-shadow: inset 0 0 2000px rgb(74 23 194 / 45%);
+}
+
+.light {
+    border: 1px dotted;
+    position: absolute;
+    background-color: transparent;
+}
+
+#glass1:hover{ animation: kaleidoscope 2s infinite}
+#glass2:hover{ animation: kaleidoscope 2s infinite}
+#glass3:hover{ animation: kaleidoscope 2s infinite}
+#glass4:hover{ animation: kaleidoscope 2s infinite}
+#glass5:hover{ animation: kaleidoscope 2s infinite}
+#glass6:hover{ animation: kaleidoscope 2s infinite}
+
+@keyframes kaleidoscope {
+    0% {
+        box-shadow: inset 0 0 2000px rgb(182 227 220 / 75%);
+    }
+    
+    15% {
+        box-shadow: inset 0 0 2000px rgb(192 236 237 / 75%);
+    }
+    30% {
+        box-shadow: inset 0 0 2000px rgb(84 212 83 / 75%);
+    }
+    45% {
+        box-shadow: inset 0 0 2000px rgb(92 184 237 / 75%);
+    }
+    60% {
+        box-shadow: inset 0 0 2000px rgb(89 157 235 / 75%);
+    }
+    85% {
+        box-shadow: inset 0 0 2000px rgb(97 121 237 / 75%);
+    }
+    100% {
+        box-shadow: inset 0 0 2000px rgb(106 102 237 / 75%);
+    }
+ }
+
+ footer {
+    text-align: left;
+    margin-left: 60px;
+}

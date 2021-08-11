@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd undergraduate student at the University of California, Davis. Currently, I work with Professor Zubair Shafiq on threat intelligence feed research. Our focus resides in analyzing and employing machine learning techniques to feeds in hopes of identifying vulnerabilities. 
+I am a 3rd year undergraduate student at the University of California, Davis. Currently, I work with Professor Zubair Shafiq on threat intelligence feed research. Our focus resides in analyzing and employing machine learning techniques to feeds in hopes of identifying vulnerabilities. 
 
 Large
 ======

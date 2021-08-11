@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "HOME"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is Kajal's home on the web!.
+I am a 3rd undergraduate student at the University of California, Davis. Currently, I work with Professor Zubair Shafiq on threat intelligence feed research. Our focus resides in analyzing and employing machine learning techniques to feeds in hopes of identifying vulnerabilities. 
 
 Large
 ======
-Big text.
 
 Medium
 ------

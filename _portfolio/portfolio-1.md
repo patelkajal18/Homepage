@@ -12,4 +12,4 @@ collection: portfolio
 <br/>
 <br/><a href='https://patelkajal18.github.io/des-157a/final/finalproject/index.html'><img src='/images/./port1b.jpg' alt='des157 final project'></a>
 <br/>
-<br/><a href='https://patelkajal18.github.io/des-157a/studio3/index.html'><img src='/images/./port1c.jpg' alt='des157 game on project'></a>
+<br/><a href='https://patelkajal18.github.io/des-157a/studio3/index.html'><img src='/images/./port1c.png' alt='des157 game on project'></a>

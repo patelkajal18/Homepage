@@ -2,7 +2,7 @@
 title: "DES 157a"
 excerpt: "> Interactive media project based class using the front-end stack (html, css, js). 
 <br/>> Learned about user experience, visual interface and interaction design. 
-<br/><a href='https://patelkajal18.github.io/des-157a/'><img src='/images/des_photo.png' alt='des157 project homepage' style='width:50%'></a>"
+<br/><a href='https://patelkajal18.github.io/des-157a/'><img src='/images/des_photo.png' alt='des157 project homepage' style='width:75%'></a>"
 collection: portfolio
 ---
 

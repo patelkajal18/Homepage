@@ -7,11 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<object data="https://github.com/patelkajal18/patelkajal18.github.io/files/6972443/Kajal_CV1.pdf" type="application/pdf" width="100%" height="100%">
-    <embed src="https://github.com/patelkajal18/patelkajal18.github.io/files/6972443/Kajal_CV1.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/patelkajal18/patelkajal18.github.io/files/6972443/Kajal_CV1.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+<iframe src="http://docs.google.com/gview?url=https://github.com/patelkajal18/patelkajal18.github.io/files/6972443/Kajal_CV1.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
 
 <!--
 {% include base_path %}

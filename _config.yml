@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kajal ---- HOME"
+title                    : "Kajal Patel"
 title_separator          : ""
 name                     : &name "Kajal Patel"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kajal Patel"
   avatar           : "kajal_circle.JPG"
-  bio              : "Undergraduate researcher"
+  bio              : "Undergraduate Researcher"
   location         : "University of California, Davis"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

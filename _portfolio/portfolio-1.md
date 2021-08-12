@@ -5,6 +5,6 @@ collection: portfolio
 ---
 
 Click on this link to check out my [projects!](https://patelkajal18.github.io/des-157a/index.html)
-<img src='/images/port1a.png'>
-<img src='/images/port1b.png'>
-<img src='/images/port1c.png'>
+<br/><img src='./images/port1a.png'>
+<br/><img src='./images/port1b.png'>
+<br/><img src='./images/port1c.png'>

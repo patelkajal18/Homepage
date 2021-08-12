@@ -4,7 +4,7 @@ excerpt: "Interactive media project based class using the front-end stack (html,
 collection: portfolio
 ---
 
-Click on this link to check out my [projects!](https://patelkajal18.github.io/des-157a/index.html)
+Click on this link to check out the below [projects!](https://patelkajal18.github.io/des-157a/index.html)
 <br/><img src='/images/./port1a.jpg'>
 <br/><img src='/images/./port1b.jpg'>
 <br/><img src='/images/./port1c.jpg'>

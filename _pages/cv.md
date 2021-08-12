@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="http://docs.google.com/gview?url=https://github.com/patelkajal18/patelkajal18.github.io/files/6972443/Kajal_CV1.pdf&embedded=false" style="width:718px; height:700px;" frameborder="0"></iframe>
+<a href="https://patelkajal18.github.io/files/6972443/Kajal_CV1.pdf" target="_blank">PDF.</a>
 
 <!--
 {% include base_path %}

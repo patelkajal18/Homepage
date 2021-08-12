@@ -7,6 +7,13 @@ redirect_from:
   - /resume
 ---
 
+<iframe
+  src="https://github.com/patelkajal18/patelkajal18.github.io/files/6972443/Kajal_CV1.pdf"
+  style="width:100%; height:100%;"
+></iframe>
+<br/> > [Downloadable CV](https://github.com/patelkajal18/patelkajal18.github.io/files/6972443/Kajal_CV1.pdf)
+
+<!--
 {% include base_path %}
 
 Education
@@ -42,4 +49,4 @@ Publications
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

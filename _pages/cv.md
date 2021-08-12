@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<a href="https://patelkajal18.github.io/files/6972443/Kajal_CV1.pdf" target="_blank">PDF.</a>
+<a href="https://patelkajal18.github.io/Kajal_CV1.pdf" target="_blank">PDF.</a>
 
 <!--
 {% include base_path %}
